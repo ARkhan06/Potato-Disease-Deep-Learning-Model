@@ -1,0 +1,9 @@
+# Python 3.12 compatible versions (dependency conflict resolved)
+tensorflow==2.17.1
+tensorflow-serving-api==2.17.1
+fastapi==0.115.6
+uvicorn==0.32.0
+python-multipart==0.0.20
+pillow==11.0.0
+matplotlib==3.9.3
+numpy==1.26.4
